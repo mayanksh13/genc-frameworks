@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-19T19:28:46 IST" name="Default suite" finished-at="2023-12-19T19:28:50 IST" duration-ms="3711">
+  <suite started-at="2023-12-25T23:15:47 IST" name="Default suite" finished-at="2023-12-25T23:16:00 IST" duration-ms="13108">
     <groups>
     </groups>
-    <test started-at="2023-12-19T19:28:46 IST" name="Default test" finished-at="2023-12-19T19:28:50 IST" duration-ms="3711">
-      <class name="com.cogni.genc.testcases2.Validate_LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cogni.genc.testcases2.Validate_LoginPageTest@31304f14]" started-at="2023-12-19T19:28:44 IST" name="setUp" finished-at="2023-12-19T19:28:46 IST" duration-ms="1929" status="PASS">
+    <test started-at="2023-12-25T23:15:47 IST" name="Default test" finished-at="2023-12-25T23:16:00 IST" duration-ms="13108">
+      <class name="com.cogni.genc.testcases2.Validate_AccountRegistration">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@31304f14]" started-at="2023-12-25T23:15:45 IST" name="setUp" finished-at="2023-12-25T23:15:47 IST" duration-ms="1820" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="initializeObject()[pri:0, instance:com.cogni.genc.testcases2.Validate_LoginPageTest@31304f14]" started-at="2023-12-19T19:28:46 IST" name="initializeObject" finished-at="2023-12-19T19:28:46 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="initializeObject()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@31304f14]" started-at="2023-12-25T23:15:47 IST" name="initializeObject" finished-at="2023-12-25T23:15:47 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeObject -->
-        <test-method signature="testLogin()[pri:0, instance:com.cogni.genc.testcases2.Validate_LoginPageTest@31304f14]" started-at="2023-12-19T19:28:46 IST" name="testLogin" finished-at="2023-12-19T19:28:50 IST" duration-ms="3651" status="PASS">
+        <test-method signature="check_EnterDetails()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@31304f14]" started-at="2023-12-25T23:15:47 IST" name="check_EnterDetails" finished-at="2023-12-25T23:16:00 IST" duration-ms="13084" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-      </class> <!-- com.cogni.genc.testcases2.Validate_LoginPageTest -->
+        </test-method> <!-- check_EnterDetails -->
+      </class> <!-- com.cogni.genc.testcases2.Validate_AccountRegistration -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
