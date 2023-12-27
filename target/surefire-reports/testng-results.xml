@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-27T16:00:09 IST" name="Suite" finished-at="2023-12-27T16:00:19 IST" duration-ms="10164">
+  <suite started-at="2023-12-27T16:59:55 IST" name="Suite" finished-at="2023-12-27T17:00:06 IST" duration-ms="11255">
     <groups>
     </groups>
-    <test started-at="2023-12-27T16:00:09 IST" name="Test" finished-at="2023-12-27T16:00:19 IST" duration-ms="10164">
+    <test started-at="2023-12-27T16:59:55 IST" name="Test" finished-at="2023-12-27T17:00:06 IST" duration-ms="11255">
       <class name="com.cogni.genc.testcases2.Validate_AccountRegistration">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:00:07 IST" name="setUp" finished-at="2023-12-27T16:00:09 IST" duration-ms="2072" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:59:53 IST" name="setUp" finished-at="2023-12-27T16:59:55 IST" duration-ms="1814" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="initializeObject()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:00:09 IST" name="initializeObject" finished-at="2023-12-27T16:00:09 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="initializeObject()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:59:55 IST" name="initializeObject" finished-at="2023-12-27T16:59:55 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeObject -->
-        <test-method signature="check_EnterDetails()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:00:09 IST" name="check_EnterDetails" finished-at="2023-12-27T16:00:19 IST" duration-ms="10138" status="PASS">
+        <test-method signature="check_EnterDetails()[pri:0, instance:com.cogni.genc.testcases2.Validate_AccountRegistration@1ea9f6af]" started-at="2023-12-27T16:59:55 IST" name="check_EnterDetails" finished-at="2023-12-27T17:00:06 IST" duration-ms="11205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- check_EnterDetails -->
