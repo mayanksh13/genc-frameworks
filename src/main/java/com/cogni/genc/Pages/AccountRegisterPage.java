@@ -43,8 +43,7 @@ public class AccountRegisterPage {
 	
    public void testLogin() {
 		
-		System.out.println("5>> Driver Id-"+driver);
-		
+		System.out.println("5>> Driver Id-"+driver);		
 		driver.get("https://naveenautomationlabs.com/opencart/index.php?route=account/login");	
 		System.out.println("Inside test case");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
